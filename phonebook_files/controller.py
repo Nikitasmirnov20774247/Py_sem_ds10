@@ -7,7 +7,7 @@ from log import *
 # import newcont as newс
 # import redactcont as redact
 
-bot = telebot.TeleBot('5663154433:AAGj997VkKfXiyuTWv3URmklpVFWFbFZOhA')
+bot = telebot.TeleBot('токен телеграмм бота')
 print("server start")
 
 filename = 'myphonebook.txt'
